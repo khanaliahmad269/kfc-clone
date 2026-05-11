@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Original Recipe Chicken",
+    "description": "Our signature chicken, marinated and hand-breaded with our secret recipe of 11 herbs and spices.",
+    "price": 5.99,
+    "category": "Chicken",
+    "image_url": "https://example.com/images/original-recipe-chicken.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Spicy Chicken Sandwich",
+    "description": "A spicy, crispy chicken fillet with lettuce and mayo on a toasted bun.",
+    "price": 4.99,
+    "category": "Sandwiches",
+    "image_url": "https://example.com/images/spicy-chicken-sandwich.jpg"
+  }
+]
